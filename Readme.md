@@ -79,4 +79,4 @@ The two main features of Git are
 ### Final Memory Helper: 🧠💡
 **C**reate Awesome Stories – **A**dd Your Ideas – **T**rack Your Progress – **P**ush to the Cloud!
 
-With this, you’re all set to teach someone about Git in a fun way! Let me know if you’d like to tweak anything else!
+With this, you’re all set to teach someone about Git in a fun way! Let me know if you’d like to tweak anything else!!!
